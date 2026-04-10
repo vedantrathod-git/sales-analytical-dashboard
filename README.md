@@ -22,5 +22,7 @@ This project is a Sales Analytics Dashboard built using Power BI to analyze sale
 - Applied DAX for KPI calculations
 - Improved data visualization and dashboard design skills
 
-
+. Dashboard
 https://github.com/vedantrathod-git/sales-analytical-dashboard/blob/main/analysis.png
+.Sales performance analysis.pbit
+https://github.com/vedantrathod-git/sales-analytical-dashboard/blob/main/SALES%20PEROMANCE%20ANALYSIS.pbix
