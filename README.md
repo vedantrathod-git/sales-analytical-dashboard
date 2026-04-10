@@ -21,3 +21,6 @@ This project is a Sales Analytics Dashboard built using Power BI to analyze sale
 - Built interactive dashboards using Power BI
 - Applied DAX for KPI calculations
 - Improved data visualization and dashboard design skills
+
+
+https://github.com/vedantrathod-git/sales-analytical-dashboard/blob/main/analysis.png
