@@ -1,29 +1,24 @@
-# sales-analytical-dashboard
-Sales Analytics Dashboard built using Power BI to analyze sales performance and key business metrics through interactive visualizations
-# Sales Analytics Dashboard (Power BI)
+📊 Sales Analytics Dashboard (Power BI)
+🚀 Overview
 
-## Overview
-This project is a Sales Analytics Dashboard built using Power BI to analyze sales performance and key business metrics.
+An interactive Sales Analytics Dashboard built using Power BI to analyze business performance, identify trends, and uncover actionable insights across sales, customers, and product categories.
 
-## Key Features
-- Total Sales, Orders, and Average Sales KPIs
-- Sales trend analysis over time
-- Category-wise performance comparison
-- Customer segment analysis
-
-## Tools Used
-- Power BI
-- DAX (SUM, AVERAGE, COUNTROWS)
-- Data Cleaning & Transformation
+📌 Key Features
+KPI tracking: Total Sales, Orders, Average Sales
+Sales trend analysis over time
+Category-wise performance comparison
+Customer segment analysis
 
 
-## Learnings
-- Built interactive dashboards using Power BI
-- Applied DAX for KPI calculations
-- Improved data visualization and dashboard design skills
+🛠 Tools & Technologies
+Power BI
+DAX (SUM, AVERAGE, COUNTROWS)
+Power Query (Data Cleaning & Transformation)
 
-. Dashboard
-https://github.com/vedantrathod-git/sales-analytical-dashboard/blob/main/analysis.png
+📈 Key Insights
+Identified top-performing product categories contributing maximum revenue
+Observed sales trends and seasonal patterns
+Analyzed customer segments to understand high-value customers
 
-.Sales performance analysis.pbit
-https://github.com/vedantrathod-git/sales-analytical-dashboard/blob/main/SALES%20PEROMANCE%20ANALYSIS.pbix
+
+📂 Project Files
