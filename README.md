@@ -40,6 +40,7 @@ An interactive **Sales Analytics Dashboard** built using Power BI to analyze bus
 ## 📂 Project Files
 
 * 📊 Power BI File:
+* https://github.com/vedantrathod-git/sales-analytical-dashboard/blob/main/SALES%20PEROMANCE%20ANALYSIS.pbix
   
 ---
 
